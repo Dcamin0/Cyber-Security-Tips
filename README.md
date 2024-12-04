@@ -82,13 +82,4 @@ A **Wi-Fi network** that isn’t secure can allow hackers to access your devices
 
 Cybersecurity may sound complicated, but by following these simple tips, you can greatly improve your online safety. Start with strong passwords, recognize phishing attempts, keep your software updated, enable two-factor authentication, and protect your Wi-Fi network. With these basics, you’ll be able to keep your personal information safe and secure!
 
----
-
-### **Table of Contents Revisited** (for additional markdown files)
-
-- [Creating Strong Passwords](strong-passwords.md)
-- [Recognizing Phishing Scams](phishing-scams.md)
-- [The Importance of Software Updates](software-updates.md)
-- [Setting Up Two-Factor Authentication](2fa.md)
-- [Securing Your Wi-Fi Network](wifi-security.md)
 
